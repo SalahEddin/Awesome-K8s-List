@@ -14,6 +14,7 @@ List of resources for learning more abou Kubernetes
 ## Tutorials
 - [Official Docs](https://kubernetes.io/docs/tutorials/)
 - [Lei Mao's Google Cloud K8s tutorials](https://leimao.github.io/blog/Google-Cloud-Kubernetes-Tutorial/)
+- [With minikube](https://medium.com/analytics-vidhya/kubernetes-tutorial-the-ultimate-platform-for-scale-and-ease-b972fffd6cdf)
 
 ## Costs
 - [AWS tracking costs](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
