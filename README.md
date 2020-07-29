@@ -9,10 +9,11 @@ List of resources for learning more abou Kubernetes
 - [KubeAcademy](https://kube.academy/)
 
 ## Tutorials
+- [Official Docs](https://kubernetes.io/docs/tutorials/)
 - [Lei Mao's Google Cloud K8s tutorials](https://leimao.github.io/blog/Google-Cloud-Kubernetes-Tutorial/)
 
 ## Costs
-- [AWS tracking costs](How to track costs in multi-tenant Amazon EKS clusters using Kubecost)
+- [AWS tracking costs](https://aws.amazon.com/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
 
 ## Platforms
 - [Google's K8s Engine](https://cloud.google.com/kubernetes-engine/)
