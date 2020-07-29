@@ -7,6 +7,9 @@ List of resources for learning more abou Kubernetes
 ## Courses
 - [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
 - [KubeAcademy](https://kube.academy/)
+- [Udemy](https://www.udemy.com/user/mumshad-mannambeth/)
+- [KodeCloud](https://kodekloud.com/courses)
+- [Linux Academy](https://linuxacademy.com/course/certified-kubernetes-application-developer-ckad/)
 
 ## Tutorials
 - [Official Docs](https://kubernetes.io/docs/tutorials/)
